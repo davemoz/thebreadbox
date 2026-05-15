@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/dmozdzanowski/repos/thebreadbox/app/components/Sidebar.css"],"sourcesContent":[".sidebar {\n  background-color: rgb(238, 238, 238);\n  display: flex;\n  flex-direction: column;\n  justify-content: space-between;\n  padding: 40px 20px;\n}\n"],"names":[],"mappings":"AAAA"}},
-    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/dmozdzanowski/repos/thebreadbox/app/styles/Homepage.css"],"sourcesContent":[".main {\n  display: flex;\n  gap: 40px;\n}\n\n.forms {\n  display: flex;\n  flex-direction: column;\n  gap: 40px;\n}\n"],"names":[],"mappings":"AAAA;;;;;AAKA"}}]
-}
