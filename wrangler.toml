@@ -1,0 +1,13 @@
+name = "thebreadbox"
+compatibility_date = "2024-12-30"
+compatibility_flags = ["nodejs_compat"]
+main = ".open-next/worker.js"
+
+[assets]
+directory = ".open-next/assets"
+binding = "ASSETS"
+
+# Non-sensitive config. Add secrets via: wrangler secret put SUPABASE_PUBLISHABLE_KEY
+[vars]
+SUPABASE_URL = ""
+SUPABASE_PUBLISHABLE_KEY = ""

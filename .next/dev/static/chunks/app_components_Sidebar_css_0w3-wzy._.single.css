@@ -1,0 +1,10 @@
+/* [project]/app/components/Sidebar.css [app-client] (css) */
+.sidebar {
+  background-color: #eee;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 40px 20px;
+  display: flex;
+}
+
+/*# sourceMappingURL=app_components_Sidebar_css_0w3-wzy._.single.css.map*/

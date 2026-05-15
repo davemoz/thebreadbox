@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "functions": {
+    "/": {},
+    "/account/login": {},
+    "/account/signup": {},
+    "/recipes": {},
+    "/recipes/[slug]": {}
+  }
+}

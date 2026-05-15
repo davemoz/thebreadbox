@@ -1,0 +1,5 @@
+{
+  "/account/login/page": "app-edge-has-no-entrypoint",
+  "/page": "app-edge-has-no-entrypoint",
+  "/recipes/page": "app-edge-has-no-entrypoint"
+}

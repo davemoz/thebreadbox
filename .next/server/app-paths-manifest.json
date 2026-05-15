@@ -1,0 +1,9 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/account/login/page": "app-edge-has-no-entrypoint",
+  "/account/signup/page": "app-edge-has-no-entrypoint",
+  "/page": "app-edge-has-no-entrypoint",
+  "/recipes/[slug]/page": "app-edge-has-no-entrypoint",
+  "/recipes/page": "app-edge-has-no-entrypoint"
+}
